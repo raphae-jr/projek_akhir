@@ -1,6 +1,3 @@
-from fungsi_manualcopy import man_isdigit, minimum
-#====================================================================
-
 # CLASS PLAYER, ENEMY, ITEM, SKILL
 class Entitas:
   def __init__(self, nama, hp=100, attack=10):
